@@ -26,6 +26,6 @@ document.addEventListener("DOMContentLoaded", function ()
     dashboardGenerator.addLink("Drive", "https://drive.google.com");
     dashboardGenerator.addLink("Calendar", "https://calendar.google.com");
     dashboardGenerator.addLink("StartX", "http://startx.stanford.edu/");
-    dashboardGenerator.addLink("Feedback","https://docs.google.com/a/sse.stanford.edu/spreadsheet/viewform formkey=dHpkTHFONGlfSnRJWk5LVkd4dXVVS1E6MQ#gid=0");
+    dashboardGenerator.addLink("Feedback","https://docs.google.com/a/sse.stanford.edu/spreadsheet/viewform?formkey=dHpkTHFONGlfSnRJWk5LVkd4dXVVS1E6MQ#gid=0");
 
 });
