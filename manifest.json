@@ -1,14 +1,11 @@
 {
-  "manifest_version": 2,
+    "manifest_version": 2,
 
-  "name": "StartX_Dashboard",
-  "description": "This extension serves as a link dashboard for StartX employees.",
-  "version": "1.0",
+    "name": "StartX_Dashboard",
+    "description": "This chrome extension serves as a link dashboard for StartX employees.",
+    "version": "1.0",
 
     "permissions": [
-        "https://mail.google.com/",
-        "https://drive.google.com/",
-        "http://startx.stanford.edu/"
     ],
     
     "browser_action": {
